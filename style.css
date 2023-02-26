@@ -90,11 +90,7 @@ ul {
     border-radius: 10px;
 }
 
-<<<<<<< HEAD
 .sign-up-one {
-=======
-button {
->>>>>>> 09e6c0ae655a481b0c987e659640c4eed5c03990
     background-color: #3882f6;
     color: #f9faf8;
     padding: 8px 35px;
@@ -120,13 +116,9 @@ button {
 
 .content {
     display: flex;
-<<<<<<< HEAD
     margin-bottom: 100px;
     text-align: center;
     font-weight: 500;
-=======
-    margin-bottom: 120px;
->>>>>>> 09e6c0ae655a481b0c987e659640c4eed5c03990
     gap: 30px;
 }
 
@@ -140,20 +132,14 @@ button {
 }
 
 .container-3 {
-<<<<<<< HEAD
     display: flex;
     flex-direction: column;
     background-color: #e5e7eb;
     padding: 80px 200px;
-=======
-    background-color: #e5e7eb;
-    padding: 40px 180px;
->>>>>>> 09e6c0ae655a481b0c987e659640c4eed5c03990
 }
 
 .quote {
     color: #1f2937;
-<<<<<<< HEAD
     font-size: 30px;
     font-weight: 200;
     font-style: italic;
@@ -215,9 +201,3 @@ h4 {
     color: #f9faf8;
     text-align: center;
 }
-=======
-    font-size: 24px;
-    font-weight: 200;
-    font-style: italic;
-}
->>>>>>> 09e6c0ae655a481b0c987e659640c4eed5c03990
